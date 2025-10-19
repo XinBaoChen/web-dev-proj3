@@ -1,8 +1,9 @@
 /*==================================================
 src/components/Debits.js
 
-The Debits component contains information for Debits page view.
-Note: You need to work on this file for the Assignment.
+Debits page view.
+For Assignment 3 part 3, this will mirror Credits with listing and add form.
+Currently, it renders the list and includes a form that calls props.addDebit (placeholder).
 ==================================================*/
 import {Link} from 'react-router-dom';
 
